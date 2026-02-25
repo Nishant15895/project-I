@@ -37,8 +37,8 @@ Developed a browser-based Tic Tac Toe game using HTML, CSS, and JavaScript. The 
 ```
 
 
-```
-css code 
+``` css
+css code
 
 
 * {
@@ -111,7 +111,7 @@ button:hover {
 
 ```
 
-```
+``` js
 js code   
 
 
